@@ -1,6 +1,6 @@
 ##Lazy loading
 
-DI providers will duplicate or shadow if not a singleton root or instantiatied in the vew.
+DI providers will duplicate or shadow if not a singleton root or instantiatied in the vew.dfdfdfd
 
 ####Feature Module
 ````
